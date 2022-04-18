@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,100;1,900&display=swap)
+
+.video {
+    background: transparent 90%;
+    position: absolute;
+    margin: 0 auto;
+
+}
+
+.video_text {
+    position: absolute;
+    font-family: Noto Sans;
+    margin: auto;
+    
+}
+
+.video_text_podtext {
+    font-family: Noto Sans;
+}
+
+.video_text_website {
+    font-weight: 700;
+}
